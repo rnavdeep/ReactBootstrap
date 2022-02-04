@@ -1,5 +1,7 @@
+
 .App {
   text-align: center;
+  background-color: black;
 }
 
 .App-logo {
@@ -35,4 +37,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+body {
+  min-height: 100vh;
+  padding: 0;
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
+
+}
+.container-main{
+  padding: 40px;
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
+
+}
+.container-carousel{
+  padding: 40px;
+  height: 50vh;
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
+
 }

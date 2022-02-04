@@ -1,0 +1,7 @@
+.jumbotron {
+    height: 50vh;
+    background:#2851A6 url("http://i.stack.imgur.com/spmUM.gif") left repeat-x; ;
+    margin-bottom: 2rem;
+    border-radius: .3rem;  
+    color:white;
+}
